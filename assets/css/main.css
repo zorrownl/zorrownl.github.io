@@ -3820,9 +3820,13 @@
 
 
 		.foto img {
-			 border: 2px solid;
-    		 border-radius: 25px;
+			
+    		border-radius:10px;
       	  	
 		}	
 
-								
+
+		.wimfoto img{
+			border-radius:10px;
+			
+		}						
